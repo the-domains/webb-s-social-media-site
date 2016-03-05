@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Webb's Social Media Site]]></title>
         <description><![CDATA[Webb's Social Media Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webb-s-social-media-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 01:30:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 01:38:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webb-s-social-media-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e3e3fc3-e4b6-4a06-a65f-2d47777c49bb.jpg">]]></description>
+            <link>https://thegrid.ai/webb-s-social-media-site/c35bfca3-6db1-4e07-8747-c8455a13b574/index.html</link>
+            <guid isPermaLink="false">c35bfca3-6db1-4e07-8747-c8455a13b574</guid>
+            <pubDate>Sat, 05 Mar 2016 01:36:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test post; with a Creative Commons 0.0 image...</p>]]></description>
-            <link>undefined73e2bf5d-926e-4ec7-807b-ab5e62e81d89/index.html</link>
+            <link>https://thegrid.ai/webb-s-social-media-site/73e2bf5d-926e-4ec7-807b-ab5e62e81d89/index.html</link>
             <guid isPermaLink="false">73e2bf5d-926e-4ec7-807b-ab5e62e81d89</guid>
             <pubDate>Sat, 05 Mar 2016 01:30:43 GMT</pubDate>
         </item>
