@@ -1,0 +1,28 @@
+name: "Webb's Social Media Site"
+favicon: null
+layout_spectrum: 0.9934780115727335
+typography_spectrum: 0.7415682757273316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8374102590605617
+  lightness: 0.05979085620492697
+  saturation: 0.6653543945867568
+  rhythmicContrast: 0.8519433094188571
+purpose: []
